@@ -1,8 +1,8 @@
 # Portfolio
 # About me
-I am a IT engineer with a specialization in programming. I graduated from the University of Information Technology and Management in Rzeszow. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
+I am an IT engineer with a specialization in programming. I graduated from the University of Information Technology and Management in Rzeszow. Recently I have started to be interested in software testing. My goal is to develop testing knowledge and technical skills. On this site, I would like to share my all gained experience from personal studies and research.
 # Tools
-•	Jira,Trello - Issue tracking and project management tool for developers
+•	Jira, Trello - Issue tracking and project management tool for developers
 
 •	Postman - Testing tool for REST API
 
@@ -12,7 +12,7 @@ I am a IT engineer with a specialization in programming. I graduated from the Un
 
 • Bug Magnet - Exploratory testing assistant for Chrome and Firefox
 
-•	Xmind - Mind mapping softwares
+•	Xmind - Mind mapping software
 # Tech Skills
 
 •	SQL
@@ -27,7 +27,16 @@ I am a IT engineer with a specialization in programming. I graduated from the Un
 
 •	Reporting bugs
 
-•	Finding uniqe CSS Selectors and xPaths
+•	Finding unique CSS Selectors and xPaths
 
 •	Creating diagrams and decision tables
+# Courses
+•	Praktyczny kurs testowania oprogramowania
+
+•	Podstawy Scrum i Agile - Teoria, Praktyka, Certyfikacja
+
+
+
+
+
 
