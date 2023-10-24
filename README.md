@@ -7,5 +7,7 @@ I am a IT engineer with a specialization in programming. I graduated from the Un
 •	Postman
 
 •	draw.io
+
 • Bug Magnet 
+
 •	Xmind
