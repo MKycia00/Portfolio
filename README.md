@@ -1,3 +1,3 @@
 # Portfolio
 # About me
-Jestem osobą która ceni sobie pracę z ludźmi. Na pierwszym miejscu zależy mi na budowaniu z nimi więzi aby czuli się wyjątkowo i indywidualnie. Moje umiejętności teoretyczne w dziedzinie testowania oprogramowania są solidne, a otwartość na naukę i chęć ciągłego rozwoju stanowią kluczową część mojego podejścia do pracy. Moje zainteresowanie testowaniem oprogramowania wynika z pasji do rozwiązywania problemów, analizy szczegółów i dbałości o jakość. Dodatkowo, studia z zakresu informatyki znacznie poszerzyły moje horyzonty w dziedzinie technologii informatycznych.
+I am a IT engineer with a specialization in programming. I graduated from the University of Information Technology and Management in Rzeszow. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
