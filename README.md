@@ -13,7 +13,7 @@ I am a IT engineer with a specialization in programming. I graduated from the Un
 • Bug Magnet - Exploratory testing assistant for Chrome and Firefox
 
 •	Xmind - Mind mapping softwares
-#Tech Skills
+# Tech Skills
 
 •	SQL
 
