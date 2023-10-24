@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-I am an IT engineer with a specialization in programming. I graduated from the University of Information Technology and Management in Rzeszow. Recently I have started to be interested in software testing. My goal is to develop testing knowledge and technical skills. On this site, I would like to share my all gained experience from personal studies and research.
+I am an IT engineer with a specialization in programming. I graduated from the University of Information Technology and Management in Rzeszow. Recently I have started to be interested in software testing. My goal is to develop testing knowledge and technical skills. On this site, I would like to share my all gained experience from studies and personal research.
 # Tools
 •	Jira, Trello - Issue tracking and project management tool for developers
 
